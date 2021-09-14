@@ -1,18 +1,20 @@
 ---
-title: "mntzj"
-description: |
-  Welcome to my website. I hope you enjoy it!
+title: "Montacir ZJ"
+image: "mntcr3.jpeg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/montacirzj"
+  - label: Twitter
+    url: "https://twitter.com/montacirzj"
+  - label: GitHub
+    url: "https://github.com/mntzj"
+  - label: Email
+    url: "mailto:montacir.zaarijabiri@gmail.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+ 
+I am an engineer. 
+Currently I work in the Finance industry. I love talking about Hiking, 
+Soccer, and Food.
