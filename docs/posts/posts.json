@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-09-14-welcome/",
+    "title": "Welcome",
+    "description": "First",
+    "author": [
+      {
+        "name": "montacir zaari jabiri",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-14",
+    "categories": [],
+    "contents": "\nOkay this is only a hello world post ! real content coming soon \n\n✌️ \n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-14T19:22:11+01:00",
+    "input_file": {}
+  }
+]
